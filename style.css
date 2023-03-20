@@ -136,7 +136,7 @@ background-color: rgb(0, 0, 0) !important;
 }
   /*Navbar end*/
   .home{ 
-      background-image: url(./img1/paragon0.png);
+      background-image: url(./paragon0.png);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -323,7 +323,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/Display/Logo.PNG") no-repeat center;
+    background: url("Logo.PNG") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -746,7 +746,7 @@ footer span a:hover{
 #about-us {
     min-height: 90vh;
     /* opacity: 0.8; */
-    background:url(images/Display/paragon2.jpg.png);
+    background:url(paragon2.jpg.png);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -799,7 +799,7 @@ footer span a:hover{
 
 #filler-contact {
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
-    url(images/Display/paragon3.jpg.png);
+    url(paragon3.jpg.png);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
